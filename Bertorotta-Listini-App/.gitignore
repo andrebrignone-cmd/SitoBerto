@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Claude Code local
+.claude/
+
+# Riferimenti locali (non committare)
+_reference/
+
+# Log
+*.log
